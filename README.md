@@ -11,7 +11,6 @@
 2. Praticar
 3. Revisar
 
-> Eu sou um bloco de citação (blockquotes)
 
 
 | Tabelas  |      São      |  Legais |
